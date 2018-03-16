@@ -15,7 +15,7 @@
     "strict": ["error", "global"],
     "consistent-return": "off",
     "max-len": ["error", {
-      "code": 80,
+      "code": 100,
       "ignoreStrings": true,
       "ignoreTemplateLiterals": true
     }],
